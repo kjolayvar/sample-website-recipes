@@ -1,6 +1,5 @@
 # sample-website-recipes
 TheOdinProject Recipe Project
 
-1. Practicing my HTML foundation by Creating sa simple Recipe Website - The Odin Project Foundations.
-
-2. Trying to figure out how HTML works. (I'm actually just trying out the Git commit commands to add comments).
+Practicing my HTML foundation by Creating a simple Recipe Website - The Odin Project Foundations.
+It's a website that displays my top 3 dishes that my girl loves in a hypothetical restaurant that we own.
