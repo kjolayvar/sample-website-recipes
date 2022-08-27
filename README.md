@@ -7,9 +7,16 @@ It's a little clunky and plain. Will come back to it as I progress through the c
 
 # UPDATE LOG: FIRST BUGS
 
-    1. First issue i've encountered so far is that when running my websites locally, it works just fine. But after attempting to have it on GitHub pages, there's a few bugs that I need to squish out. 
+    First issue i've encountered so far is that when running my websites locally, it works just fine. But after attempting to have it on GitHub pages, there's a few bugs that I need to squish out. 
         -Main page (index.html) won't redirect me to my sub pages (the recipes) when I click on each link.
         
         -Fixed the issue of directing me to the sub pages but in each page the images won't show up. BACK TO HOME link doesn't work too.
         
         -Everything works fine locally. (VS Code Live Server Extension)
+
+        -UPDATE: Everything is working fine now. I just had to wait for everything to load on the server for a bit. Which means there's nothing wrong with the code (Yipeee!)
+
+    BUGS FIXED
+
+
+# UPDATE LOG: TEXT HERE
