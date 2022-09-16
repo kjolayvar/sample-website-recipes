@@ -21,4 +21,6 @@ It's a little clunky and plain. Will come back to it as I progress through the c
 
 # UPDATE LOG: 2022-09-08 DESIGN ATTEMPT
 
-    I finished doing the CSS Exercises and am now starting to design the sample website that I tried to make earlier in the course.
+    I finished doing the CSS Exercises and am now starting to design the sample website that I tried to make earlier in the course. Here's what happened:
+
+        -Currently stuck with the designing process. The design that I want isn't exactly going the way it should be. All my CSS codes are going the wrong way.
