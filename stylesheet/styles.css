@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: #750000;
+}
+
+.container {
+    background-color: #ffffff;
+    font-size: 16px;
+    padding: 3em 2.8em;
+    width: 90vw;
+    max-width: 32em;
+    position: fixed;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    border-radius: 0.6em;
+}
+
+.title-container {
+    background-color: #5a1a5a;
+    color: white;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
