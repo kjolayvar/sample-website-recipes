@@ -1,0 +1,18 @@
+.container {
+    background-color: bisque;
+    color: white
+}
+
+.title-container {
+    background-color: maroon;
+}
+
+.recipe {
+    padding: 1rem;
+    margin: auto;
+    border: solid;
+}
+
+#recipe-name {
+    background-color: brown;
+}
