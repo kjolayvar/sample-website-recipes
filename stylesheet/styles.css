@@ -1,3 +1,8 @@
+/* index styles */
+* {
+    border: 2px solid red;
+}
+
 .container {
     background-color: bisque;
     color: white
@@ -16,3 +21,7 @@
 #recipe-name {
     background-color: brown;
 }
+
+
+
+/* sub pages styles */
